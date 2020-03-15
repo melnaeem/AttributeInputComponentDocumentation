@@ -1,3 +1,6 @@
+
+  
+
 # Attribute Input Component - Input with ability to add user attribute
 
   
@@ -46,7 +49,7 @@
 | isOneLineInput | boolean | False | No | Input behaves like one line input as in `<input>` |
 | isHeightFixed | boolean | False | No | Input behaves like multiple lines area as in `<textarea>` but the height doesn't change according to text length|
 | maxHeight | number | 200 | No | Input maximum height |
-| fontSize | number | `14 | 16` | No |Input font-size in **pixels** Default = 14px IF isOneLineInput = true Else 16px |
+| fontSize | number | `14 or 16` | No | Input font-size in **pixels** Default = 14px IF isOneLineInput = true Else 16px |
 
   
 
